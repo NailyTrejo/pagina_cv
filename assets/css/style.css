@@ -1,0 +1,474 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300&family=Oooh+Baby&family=Shizuru&family=Yuji+Hentaigana+Akari&display=swap');
+body{
+    background-color:white;
+    
+   
+}
+nav{
+    margin-top: auto;
+    padding: 0;
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 1px;
+    top: 0px;
+    right: 0;
+    background: #F9FD4B;
+}
+#menu a{
+    font-family:  Barlow Semi Condensed;;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+#nombre-personal{
+    position: absolute;
+    width: 353px;
+    height: 34px;
+    left: 127px;
+    top: 29px;
+
+    font-family:  Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: black;
+
+
+}
+header{
+    margin-top: auto;
+    background-image:linear-gradient(to top, rgba(27, 27, 27, 0.5)0%, rgba(10, 10, 10, 0.5)100%), url(../img/aedrian-rLDcNUn_OEo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: absolute;
+    width: 1440px;
+    height: 441px;
+    left: 0px;
+    top: 100px;
+}
+
+.head{
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.acercademi{
+    position: absolute;
+    width: 133px;
+    height: 49px;
+    left: 516px;
+    top: 10px;
+    right: 0;
+    background: #FBFD7F;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+
+}
+
+.habilidad{
+    position: absolute;
+    width: 133px;
+    height: 49px;
+    left: 699px;
+    top: 16px;
+
+    background: #F9DB3D;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+.academica{
+    position: absolute;
+    width: 133px;
+    height: 49px;
+    left: 884px;
+    top: 16px;
+    
+    background: #FFC875;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+.archivo{
+    position: absolute;
+    width: 133px;
+    height: 49px;
+    left: 1075px;
+    top: 18px;
+    
+    background: #FDAF3A;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+.contacto{
+    position: absolute;
+    width: 133px;
+    height: 49px;
+    left: 1282px;
+    top: 18px;
+    
+    background: #FF9B04;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+.contenedor{
+    position: absolute;
+    width: 1440px;
+    height: 441px;
+    left: 0px;
+    top: 100px;
+    background: local;
+}
+h1{
+    position: absolute;
+    width: 496px;
+    height: 86px;
+    left: 472px;
+    top: 0;
+    right: 0;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 86px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+h2{
+    position: absolute;
+    width: 195px;
+    height: 43px;
+    left: 623px;
+    top: 1px;
+    right: 0;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 43px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.titulo2{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.copy{
+    position: absolute;
+    width: 764px;
+    height: 58px;
+    left: 338px;
+    top: 100px;
+    right: 0;
+
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.acerca { 
+    position: absolute;
+    width: 1440px;
+    height: 385px;
+    left: 1px;
+    top: 538px;
+    background: #FBFD7F;
+   
+}
+.imagenpersonal{
+   border-radius: 100%;
+    position: absolute;
+    width: 326px;
+    height: 324px;
+    left: 138px;
+    top: 569px;
+    top: 0%;
+    right: 0%;
+}
+
+.informacion{
+    position: absolute;
+    width: 756px;
+    height: 82px;
+    left: 556px;
+    top: 18%;
+    right: 0%;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+    
+}
+.habilidades {
+    position: absolute;
+    width: 1440px;
+    height: 464px;
+    left: -11px;
+    top: 919px;
+   
+    background: #000000;
+}
+.caja1{
+    position: absolute;
+    width: 548px;
+    height: 277px;
+    left: 138px;
+    top: 100px;
+    right: 0;
+
+    background: #229B77;
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+.caja2{
+    position: absolute;
+    width: 548px;
+    height: 277px;
+    left: 769px;
+    top: 100px;
+    right: 0;
+    background: #229B77;
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+.formacion{
+    position: absolute;
+    width: 1440px;
+    height: 289px;
+    left: 1px;
+    top: 400px;
+
+    background: #FBFD7F;
+}
+.caja-educacion{
+    position: absolute;
+    width: 477px;
+    height: 250px;
+    left: 824px;
+    top: 0px;
+    right: 0;
+
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.imagenuni{
+    border-radius: 100%;
+    position: absolute;
+    width: 326px;
+    height: 324px;
+    left: 138px;
+    top: 569px;
+    top: 0%;
+    right: 0%;
+ }
+.titulo4{
+    position: absolute;
+    width: 443px;
+    height: 58px;
+    left: 40px;
+    top: 0px;
+    right: 0px;
+
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 58px;
+    color: #000000;
+}
+.portafolio{
+    position: absolute;
+    width: 1440px;
+    height: 300px;
+    left: 1px;
+    top: 275px;
+    background-image:linear-gradient(to top, rgba(27, 27, 27, 0.5)0%, rgba(10, 10, 10, 0.5)100%), url(../img/lilzidesigns-rAiRJEVFZ9U-unsplash.jpg);
+}
+.caja-archivo{
+    position: absolute;
+    width: 1440px;
+    height: 246px;
+    left: 1px;
+    top: 100px;
+    right: 0;
+}
+.boton-ir{
+    position: absolute;
+    width: 216px;
+    height: 52px;
+    left: 222px;
+    top: 50px;
+    right:0;
+    text-align: center;
+    background: #FBFD7F;
+    border-radius: 40px;
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: black;
+
+}
+.cuenta{
+    position: absolute;
+    width: 826px;
+    height: 72px;
+    left: 507px;
+    top: 0px;
+    right: 0;
+
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #FFFFFF;
+
+}
+.formulario{
+    position: absolute;
+    width: 1440px;
+    height: 394px;
+    left: 0px;
+    top: 1830px;
+
+    background: #000000;
+}
+
+.caja3 {
+    position: absolute;
+    width: 372px;
+    height: 347px;
+    left: 938px;
+    top: 15px;
+    right: 0;
+    background: rgba(196, 196, 196, 0.13);
+}
+
+.enviar{
+    position: absolute;
+    width: 214px;
+    height: 57px;
+    left: 1012px;
+    top: 300px;
+
+    background: #FBFD7F;
+    border-radius: 40px;
+    width: 90px;
+    height: 53px;
+    left: 1074px;
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.datodecontacto{
+    position: absolute;
+    width: 198px;
+    height: 58px;
+    left: 392px;
+    top: 1px;
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 58px;
+
+color: #FFFFFF;
+}
+.nombre_completo{
+    background: rgba(251, 253, 127, 0.51);
+    width: 330px;
+    height: 50px;
+    left: 0px;
+    top: 0px;    
+} 
+.nombre{
+    position: absolute;
+    width: 60px;
+    height: 22px;
+    top: auto;
+    font-family: Barlow Semi Condensed;
+    color: #FFFFFF; 
+    text-align: center;
+}
+.correo_email{
+    z-index: 1;
+    background: rgba(251, 253, 127, 0.51);
+    display: block;
+    width: 330px;
+    height: 50px;
+    left: 0px;
+    top: 0px;    
+} 
+.correo{
+    z-index: 2;
+    position: absolute;
+    padding: 5px;
+    width: 60px;
+    height: 22px;
+    top: auto;
+    font-family: Barlow Semi Condensed;
+    color: #FFFFFF; 
+    text-align: center; 
+}
+.icon{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 400px;
+    top: 2134px;
+    right: 0%;
+    color:white;
+    font-size: 5rem;
+    padding: 0%;
+    display: flex;
+    text-align: center;
+    margin: 1;
+    justify-content: center;
+}
